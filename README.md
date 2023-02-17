@@ -10,7 +10,6 @@
   * [Contribution](#contribution)
   * [Test](#test)
   * [User Story](#user-story)
-  * [Installation](#installation)
   * [Technology Used](#technology-used)
   * [Questions](#questions)
   * [Credits](#credits)
@@ -37,10 +36,6 @@ When a user goes to the homepage of the game, then the user  has an option to si
 When a user logs in, then the users progress is saved as they progress through the game.
 When the user starts the game, then the user is presented with a spaceship and must solve the puzzles to get the spaceship working.
 When a user solves all the puzzles, then the space ship is able to continue to its destination of Earth.
-
-
-## Installation
-N/A
 
 ## Technology Used
 In this project we used Stripe, MongoDB, React, GraphQL, Apollo Server, Chakra UI and Bcrypt.
